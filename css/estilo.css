@@ -4,6 +4,25 @@
 body {
     background: #ffc107;
     color: white;
+    font: 14px Helvetica, Arial, sans-serif;
+}
+
+/* Formatação do topo
+-------------------------------------------------*/
+
+.logo {
+    width: 15rem;
+    padding: 20px;
+}
+
+#menu-principal a {
+    padding: 20px 10px;
+    line-height: 2.2rem;
+}
+
+.mulher {
+    width: 100%;
+    padding: 40px;
 }
 
 /* Breakpoints responsivos com Media Queries
